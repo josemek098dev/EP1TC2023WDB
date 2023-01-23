@@ -1,0 +1,44 @@
+hora de inicio 11:00
+
+//console en el navegador - JS - HTML DOM
+
+1 
+
+document.firstElementChild.lastElementChild.lastElementChild.lastElementChild.innerHTML = "JOSE"  // 'JOSE'
+
+
+
+2 
+
+document.querySelectorAll("li a")[0].style.color = "red"
+
+3
+
+https://www.w3schools.com/jsref/dom_obj_style.asp
+
+document.querySelector("button").style.backgroundColor = "blue";
+
+4
+
+document.querySelector("h1").classList.add("huge");
+
+5
+
+document.querySelector("h1").innerHTML = "<em> WACANDA FOREVER </em>"
+
+6
+
+document.querySelector("a").attributes;
+
+document.querySelector("a").getAttribute("href", "https://www.bing.com");
+
+document.querySelector("a").setAttribute("href", "https://www.bing.com");
+
+7
+
+ANGELA TIP: "los dias q estes cansado empieza y di q av s a hacer solo 20 minutos"
+
+hora de fin 16:02
+
+Complete el modulo S11 - era muy especifico tenia detalles y poca practica tuve q ir lento
+parecia todo muy importante
