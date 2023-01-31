@@ -1,9 +1,11 @@
 # EP1-TC2023WDB
 
-23012023 me di alto susto casi borro todo
+git remote add origin https://github.com/josemek098dev/EP1-TC2023WDB.git
 
-prueba cred
+git push -u origin
 
-pruebva cred 2
+30012023 "ejs 3"
 
-https://github.com/josemek098dev/EP1-TC2023WDB.git
+
+
+
