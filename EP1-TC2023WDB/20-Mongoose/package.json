@@ -1,0 +1,16 @@
+{
+  "name": "20--",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongod": "^2.0.0",
+    "mongoose": "^6.9.1",
+    "moongose": "^1.0.0"
+  }
+}
